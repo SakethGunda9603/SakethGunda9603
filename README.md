@@ -1,4 +1,4 @@
-<a >![logo](png)</a>
+<a >![logo](png.png)</a>
 <h1 align="center">Hi 👋, I'm Saketh Gunda</h1>
 <h3 align="center">Exploring the Boundaries of Software Development</h3>
 
